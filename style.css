@@ -1,0 +1,218 @@
+
+p {   
+position: absolute;
+width: 715px;
+height: 20px;
+left: 43px;
+top: 133px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+color: #1F2229;
+	}
+
+.container {
+position: absolute;
+width: 800px;
+height: 762px;
+left: 165px;
+top: 0px;
+background: white;
+margin-top: 44px;
+}
+ 
+.header
+{ 
+	position: absolute;
+width: 1152px;
+height: 44px;
+left: 0px;
+top: 0px;
+background: #1F2229;
+}
+.logo{
+	position: absolute;
+width: 87px;
+height: 23.94px;
+left: 142px;
+top: 12px;
+
+}
+h2{
+	position: absolute;
+width: 115px;
+height: 16px;
+left: 249px;
+top: 1px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+h1{
+	position: absolute;
+width: 436px;
+height: 42px;
+left: 182px;
+top: 44px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+color: #1F2229;
+}
+.data {position: absolute;
+width: 242px;
+height: 52px;
+left: 114px;
+top: 243px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;}
+
+/*срок вклада*/
+.term{
+	position: absolute;
+width: 242px;
+height: 52px;
+left: 438px;
+top: 243px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+
+/*Инпут суммы вклада*/
+.sum{
+	position: absolute;
+width: 242px;
+height: 52px;
+left: 114px;
+top: 333px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+}
+
+/*Инпут процентной ставки*/
+.percent{
+	position: absolute;
+width: 242px;
+height: 52px;
+left: 438px;
+top: 332px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+    
+}
+/*checkbox ежемесячного пополнения*/
+.in5{
+	
+position: absolute;
+width: 25px;
+height: 25px;
+left: 114px;
+top: 433px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+
+/*Инпут ежемесячного пополнения*/
+.sumAdd{
+	position: absolute;
+width: 242px;
+height: 52px;
+left: 438px;
+top: 420px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+
+/*Кнопка рассчитать*/
+.submit{
+	position: absolute;
+width: 172px;
+height: 52px;
+left: 114px;
+top: 536px;
+background: #33C4A0;
+border: 1px solid #33C4A0;
+box-sizing: border-box;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+color: #FFFFFF;
+}
+
+/*Инпут выбора */
+.operations{
+position: absolute;
+width: 71px;
+height: 52px;
+left: 609px;
+top: 243px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+
+/*Текст к чекбоксу*/
+.in5t{
+	position: absolute;
+width: 224px;
+height: 16px;
+left: 154px;
+top: 438px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+color: #000000;
+}
+
+/*Расчеты калькулятора*/
+.calc
+{position: absolute;
+width: 186px;
+height: 47px;
+left: 343px;
+top: 669px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 47px;
+color: #000000;
+}
+
